@@ -34,8 +34,7 @@
           <td> 3 </td>
           <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/IT_salaries.ipynb"> Анализ зарплатного датасета </a></b></td>
           <td> Расчет характеристик, построение графиков </td>
-          <td><code> Python </code><br>
-              <code> numpy </code><br>
+          <td><code> numpy </code><br>
               <code> pandas </code><br>
               <code> scipy </code><br>
               <code> matplotlib </code><br>
