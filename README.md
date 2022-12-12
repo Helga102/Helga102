@@ -18,7 +18,7 @@
       <tbody valign="top">
          <tr>
           <td> 5 </td>
-          <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/IT_salaries.ipynb"> Задача классификации. Линейный классификатор </a></b></td>
+          <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/task_4_2_4.ipynb"> Задача классификации. Линейный классификатор </a></b></td>
           <td> Построение и оценка ML-модели </td>
           <td><code> pandas </code><br>
               <code> seaborn </code><br>
