@@ -17,6 +17,17 @@
       </thead>
       <tbody valign="top">
         <tr>
+          <td> 7 </td>
+          <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/task_4_4_3_(селекция_признаков).ipynb"> Селекция признаков  </a></b></td>
+          <td> Кодирование категориальных признаков и их полезность </td>
+          <td><code> pandas </code><br>
+              <code> seaborn </code><br>
+              <code> sklearn </code><br>
+              <code> preprocessing </code><br>
+              <code> ExtraTreesClassifier</code><br>
+          </td>
+        </tr>      
+        <tr>
            <td> 6 </td>
            <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/task_4_3.ipynb"> Задача классификации. Вероятностный алгоритм </a></b></td>
            <td> Построение и оценка ML-модели </td>
