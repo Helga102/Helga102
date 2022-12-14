@@ -19,7 +19,7 @@
         <tr>
           <td> 7 </td>
           <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/task_4_4_3_(селекция_признаков).ipynb"> Селекция признаков  </a></b></td>
-          <td> Кодирование категориальных признаков и их полезность </td>
+          <td> Нахождение самых полезных признаков для ML-модели. Кодирование категориальных признаков </td>
           <td><code> pandas </code><br>
               <code> seaborn </code><br>
               <code> sklearn </code><br>
