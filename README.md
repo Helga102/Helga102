@@ -34,6 +34,7 @@
            <td><code> pandas </code><br>
                <code> seaborn </code><br>
                <code> sklearn </code><br>
+               <code> RandomForestClassifier </code><br>
            </td>
          </tr>
          <tr>
@@ -43,6 +44,8 @@
           <td><code> pandas </code><br>
               <code> seaborn </code><br>
               <code> sklearn </code><br>
+              <code> SGDClassifier </code><br>
+              <code> StandardScaler </code><br>
           </td>
         </tr>
          <tr>
@@ -52,6 +55,7 @@
           <td><code> pandas </code><br>
               <code> seaborn </code><br>
               <code> sklearn </code><br>
+              <code> KNeighborsClassifier </code><br>
           </td>
         </tr>
         <tr>
