@@ -70,7 +70,7 @@
         </tr>
         <tr>
           <td> 3 </td>
-          <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/IT_salaries.ipynb"> Анализ зарплатного датасета </a></b></td>
+          <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/IT_salaries.ipynb"> Анализ зарплатного датасета айтишников </a></b></td>
           <td> Расчет характеристик, построение графиков </td>
           <td><code> numpy </code><br>
               <code> pandas </code><br>
