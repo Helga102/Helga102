@@ -18,7 +18,7 @@
       <tbody valign="top">
         <tr>
           <td> 8 </td>
-          <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/5_дерево_решений.ipynb"> Предсказание диагноза </a></b></td>
+          <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/5_дерево_решений.ipynb"> Предсказание диабета </a></b></td>
           <td> Используя дерево решений с предварительной селекцией признаков</td>
           <td><code> pandas </code><br>
               <code> seaborn </code><br>
