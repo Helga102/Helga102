@@ -19,7 +19,7 @@
         <tr>
           <td> 9 </td>
           <td><b><a href="https://github.com/Helga102/Portfolio/blob/main/5_2_3_RandomForestClassifier.ipynb"> Предсказание диабета </a></b></td>
-          <td> Используя случайный лес с предварительной селекцией признаков</td>
+          <td> Используя случайный лес </td>
           <td><code> pandas </code><br>
               <code> seaborn </code><br>
               <code> sklearn </code><br>
